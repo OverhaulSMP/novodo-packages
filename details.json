@@ -1,0 +1,9 @@
+{
+    "uuid": "6f2fea88-5d57-461a-86de-9ec51a634597",
+    "title": "Another package",
+    "description": "Package description",
+    "version": "2.3",
+    "systems": [
+        "windows"
+    ]
+}
